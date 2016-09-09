@@ -1,0 +1,39 @@
+{
+  "name": "pet-store",
+  "version": "1.0.0",
+  "description": "Adds a pet store to your WordPress website. Example plugin for the Post Types Definitely library.",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "pet store",
+    "pets",
+    "post type",
+    "post types definitely"
+  ],
+  "author": {
+    "name": "Felix Arntz",
+    "email": "felix-arntz@leaves-and-love.net",
+    "url": "https://leaves-and-love.net"
+  },
+  "homepage": "https://github.com/felixarntz/pet-store",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixarntz/pet-store.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/felixarntz/pet-store/issues"
+  },
+  "license": {
+    "type": "GPL-3.0",
+    "name": "GNU General Public License v3",
+    "url": "http://www.gnu.org/licenses/gpl-3.0.html"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-sort": "~1.1.1",
+    "gulp-wp-pot": "~1.1.1"
+  }
+}
