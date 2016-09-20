@@ -12,4 +12,4 @@ You must have the [Post Types Definitely](https://wordpress.org/plugins/post-typ
 
 ## Why?
 
-This is an example plugin for Post Types Definitely, showing a possible use-case. While you can certainly use it as-is, it should mostly encourage you to modify it to your needs.
+This is an example plugin for Post Types Definitely, showing a possible use-case. While you can certainly use it as-is, it should mostly encourage you to modify it to your needs. The [Wiki for the plugin](https://github.com/felixarntz/post-types-definitely/wiki) provides you with more information on how everything works.

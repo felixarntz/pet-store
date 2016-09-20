@@ -6,177 +6,203 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-09-20 12:51+0100\n"
 "report-msgid-bugs-to: https://github.com/felixarntz/pet-store\n"
 "x-generator: gulp-wp-pot\n"
 "x-poedit-basepath: .\n"
 "x-poedit-language: English\n"
 "x-poedit-country: UNITED STATES\n"
 "x-poedit-sourcecharset: uft-8\n"
-"x-poedit-keywordslist: __;_e;_x:1,2c;_ex:1,2c;_n:1,2; _nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__; esc_html__;esc_attr_e; esc_html_e;esc_attr_x:1,2c; esc_html_x:1,2c;\n"
+"x-poedit-keywordslist: __;_e;_x:1,2c;_ex:1,2c;_n:1,2; _nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__; esc_html__;esc_attr_e; esc_html_e;"
+"esc_attr_x:1,2c; esc_html_x:1,2c;\n"
 "x-poedit-bookmars: \n"
 "x-poedit-searchpath-0: .\n"
 "x-textdomain-support: yes\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Felix Arntz <felix-arntz@leaves-and-love.net>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.6.7\n"
+"Language: de_DE\n"
 
 #: pet-store.php:41
 msgid "Hierarchy"
-msgstr ""
+msgstr "Hierarchie"
 
 #: pet-store.php:42
-msgid "Since you can specify pet species hierarchically, it makes sense to specify the overall species (i.e. Dog or Cat) as top-level species and then specify the respective races (i.e. Labrador or Chow-Chow) as sub-species."
+msgid ""
+"Since you can specify pet species hierarchically, it makes sense to specify "
+"the overall species (i.e. Dog or Cat) as top-level species and then specify "
+"the respective races (i.e. Labrador or Chow-Chow) as sub-species."
 msgstr ""
+"Da du Tierarten hierarchisch angeben kannst, ist es sinnvoll die allgemeine "
+"Tierart (z.B. Hund oder Katze) als übergeordnete Tierarten anzugeben und "
+"dann die entsprechenden Rassen (z.B. Labrador oder Chow-Chow) als "
+"untergeordnete Tierarten anzugeben."
 
 #: pet-store.php:45
-msgid "For more information, please check out the <a href=\"%s\">GitHub repository of the plugin</a>."
+msgid ""
+"For more information, please check out the <a href=\"%s\">GitHub repository "
+"of the plugin</a>."
 msgstr ""
+"Für weitere Informationen besuche bitte das <a href=\"%s\">GitHub-Repository "
+"des Plugins</a>."
 
 #: pet-store.php:51
 msgctxt "plural title"
 msgid "Pet Species"
-msgstr ""
+msgstr "Tierarten"
 
 #: pet-store.php:52
 msgctxt "singular title"
 msgid "Pet Species"
-msgstr ""
+msgstr "Tierart"
 
 #: pet-store.php:53
 msgctxt "gender of the term \"pet species\""
 msgid "n"
-msgstr ""
+msgstr "f"
 
 #: pet-store.php:61
 msgid "Pet Properties"
-msgstr ""
+msgstr "Tiereigenschaften"
 
 #: pet-store.php:62
 msgid "Pet Property"
-msgstr ""
+msgstr "Tiereigenschaft"
 
 #: pet-store.php:63
 msgctxt "gender of the term \"pet property\""
 msgid "n"
-msgstr ""
+msgstr "f"
 
 #: pet-store.php:72
 msgid "Pets"
-msgstr ""
+msgstr "Haustiere"
 
 #: pet-store.php:73
 msgid "Pet"
-msgstr ""
+msgstr "Haustier"
 
 #: pet-store.php:74
 msgctxt "gender of the term \"pet\""
 msgid "n"
-msgstr ""
+msgstr "n"
 
 #: pet-store.php:94, pet-store.php:161
 msgid "Basic Information"
-msgstr ""
+msgstr "Allgemeine Informationen"
 
 #: pet-store.php:95
 msgid "In this section you can specify basic data for the pet."
-msgstr ""
+msgstr "In diesem Abschnitt kannst du generelle Daten zum Haustier angeben."
 
 #: pet-store.php:100, pet-store.php:167
 msgid "Gender"
-msgstr ""
+msgstr "Geschlecht"
 
 #: pet-store.php:103, pet-store.php:170
 msgid "Male"
-msgstr ""
+msgstr "Männlich"
 
 #: pet-store.php:104, pet-store.php:171
 msgid "Female"
-msgstr ""
+msgstr "Weiblich"
 
 #: pet-store.php:109
 msgid "Date of Birth"
-msgstr ""
+msgstr "Geburtsdatum"
 
 #: pet-store.php:110
 msgid "Specify when this pet was born."
-msgstr ""
+msgstr "Wähle aus, wann dieses Haustier geboren wurde."
 
 #: pet-store.php:118
 msgid "Store Information"
-msgstr ""
+msgstr "Geschäftsinformationen"
 
 #: pet-store.php:119
 msgid "In this section you can enter store-related information for this pet."
 msgstr ""
+"In diesem Abschnitt kannst du geschäftsbezogene Informationen zu diesem "
+"Haustier eingeben."
 
 #: pet-store.php:124
 msgid "Purchase Status"
-msgstr ""
+msgstr "Verkaufsstatus"
 
 #: pet-store.php:125
-msgid "Specify whether this pet is available for sale, whether it is reserved for someone or whether it has been sold."
+msgid ""
+"Specify whether this pet is available for sale, whether it is reserved for "
+"someone or whether it has been sold."
 msgstr ""
+"Gib an, ob dieses Haustier zum Verkauf zur Verfügung steht, ob es für "
+"jemanden reserviert ist oder ob es bereits verkauf wurde."
 
 #: pet-store.php:130
 msgid "Reserved for Customer"
-msgstr ""
+msgstr "Für Kunden reserviert"
 
 #: pet-store.php:131
 msgid "If the pet is reserved for someone, select that person here."
 msgstr ""
+"Falls das Haustier für jemanden reserviert wurde, wähle diese Person hier "
+"aus."
 
 #: pet-store.php:142
 msgid "Customers"
-msgstr ""
+msgstr "Kunden"
 
 #: pet-store.php:143
 msgid "Customer"
-msgstr ""
+msgstr "Kunde"
 
 #: pet-store.php:144
 msgctxt "gender of the term \"customer\""
 msgid "m"
-msgstr ""
+msgstr "m"
 
 #: pet-store.php:162
 msgid "In this section you can specify basic data for the customer."
-msgstr ""
+msgstr "In diesem Abschnitt kannst du generelle Daten zum Kunden angeben."
 
 #: pet-store.php:176
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 #: pet-store.php:181
 msgid "Email Address"
-msgstr ""
+msgstr "Email-Adresse"
 
 #: pet-store.php:185
 msgid "Phone Number"
-msgstr ""
+msgstr "Telefonnummer"
 
 #: pet-store.php:198
 msgid "Set status to %s"
-msgstr ""
+msgstr "Status auf %s setzen"
 
 #: pet-store.php:206
 msgid "Pet Store"
-msgstr ""
+msgstr "Tierhandlung"
 
 #: pet-store.php:227
 msgid "Available"
-msgstr ""
+msgstr "Verfügbar"
 
 #: pet-store.php:228
 msgid "Reserved"
-msgstr ""
+msgstr "Reserviert"
 
 #: pet-store.php:229
 msgid "Sold"
-msgstr ""
+msgstr "Verkauft"
 
 #: pet-store.php:247
 msgid "The status of %1$s was successfully set to %2$s."
-msgstr ""
+msgstr "Der Status von %1$s wurde erfolgreich auf %2$s gesetzt."
 
 #: pet-store.php:250
 msgid "The status of %1$s could not be set to %2$s."
-msgstr ""
+msgstr "Der Status von %1$s konnte nicht auf %2$s gesetzt werden."
