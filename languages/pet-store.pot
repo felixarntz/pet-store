@@ -72,7 +72,7 @@ msgctxt "gender of the term \"pet\""
 msgid "n"
 msgstr ""
 
-#: pet-store.php:94, pet-store.php:161
+#: pet-store.php:94, pet-store.php:162
 msgid "Basic Information"
 msgstr ""
 
@@ -80,15 +80,15 @@ msgstr ""
 msgid "In this section you can specify basic data for the pet."
 msgstr ""
 
-#: pet-store.php:100, pet-store.php:167
+#: pet-store.php:100, pet-store.php:168
 msgid "Gender"
 msgstr ""
 
-#: pet-store.php:103, pet-store.php:170
+#: pet-store.php:103, pet-store.php:171
 msgid "Male"
 msgstr ""
 
-#: pet-store.php:104, pet-store.php:171
+#: pet-store.php:104, pet-store.php:172
 msgid "Female"
 msgstr ""
 
@@ -124,59 +124,63 @@ msgstr ""
 msgid "If the pet is reserved for someone, select that person here."
 msgstr ""
 
-#: pet-store.php:142
-msgid "Customers"
+#: pet-store.php:133
+msgid "Select Customer..."
 msgstr ""
 
 #: pet-store.php:143
-msgid "Customer"
+msgid "Customers"
 msgstr ""
 
 #: pet-store.php:144
+msgid "Customer"
+msgstr ""
+
+#: pet-store.php:145
 msgctxt "gender of the term \"customer\""
 msgid "m"
 msgstr ""
 
-#: pet-store.php:162
+#: pet-store.php:163
 msgid "In this section you can specify basic data for the customer."
 msgstr ""
 
-#: pet-store.php:176
+#: pet-store.php:177
 msgid "Address"
 msgstr ""
 
-#: pet-store.php:181
+#: pet-store.php:182
 msgid "Email Address"
 msgstr ""
 
-#: pet-store.php:185
+#: pet-store.php:186
 msgid "Phone Number"
 msgstr ""
 
-#: pet-store.php:198
+#: pet-store.php:199
 msgid "Set status to %s"
 msgstr ""
 
-#: pet-store.php:206
+#: pet-store.php:207
 msgid "Pet Store"
 msgstr ""
 
-#: pet-store.php:227
+#: pet-store.php:228
 msgid "Available"
 msgstr ""
 
-#: pet-store.php:228
+#: pet-store.php:229
 msgid "Reserved"
 msgstr ""
 
-#: pet-store.php:229
+#: pet-store.php:230
 msgid "Sold"
 msgstr ""
 
-#: pet-store.php:247
+#: pet-store.php:248
 msgid "The status of %1$s was successfully set to %2$s."
 msgstr ""
 
-#: pet-store.php:250
+#: pet-store.php:251
 msgid "The status of %1$s could not be set to %2$s."
 msgstr ""

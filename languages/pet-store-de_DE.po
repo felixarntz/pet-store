@@ -3,11 +3,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pet-store\n"
+"Report-Msgid-Bugs-To: https://github.com/felixarntz/pet-store\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-13 21:48+0100\n"
+"Last-Translator: Felix Arntz <felix-arntz@leaves-and-love.net>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-09-20 12:51+0100\n"
-"report-msgid-bugs-to: https://github.com/felixarntz/pet-store\n"
 "x-generator: gulp-wp-pot\n"
 "x-poedit-basepath: .\n"
 "x-poedit-language: English\n"
@@ -20,11 +24,7 @@ msgstr ""
 "x-poedit-searchpath-0: .\n"
 "x-textdomain-support: yes\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"POT-Creation-Date: \n"
-"Last-Translator: Felix Arntz <felix-arntz@leaves-and-love.net>\n"
-"Language-Team: \n"
 "X-Generator: Poedit 1.6.7\n"
-"Language: de_DE\n"
 
 #: pet-store.php:41
 msgid "Hierarchy"
@@ -90,7 +90,7 @@ msgctxt "gender of the term \"pet\""
 msgid "n"
 msgstr "n"
 
-#: pet-store.php:94, pet-store.php:161
+#: pet-store.php:94, pet-store.php:162
 msgid "Basic Information"
 msgstr "Allgemeine Informationen"
 
@@ -98,15 +98,15 @@ msgstr "Allgemeine Informationen"
 msgid "In this section you can specify basic data for the pet."
 msgstr "In diesem Abschnitt kannst du generelle Daten zum Haustier angeben."
 
-#: pet-store.php:100, pet-store.php:167
+#: pet-store.php:100, pet-store.php:168
 msgid "Gender"
 msgstr "Geschlecht"
 
-#: pet-store.php:103, pet-store.php:170
+#: pet-store.php:103, pet-store.php:171
 msgid "Male"
 msgstr "Männlich"
 
-#: pet-store.php:104, pet-store.php:171
+#: pet-store.php:104, pet-store.php:172
 msgid "Female"
 msgstr "Weiblich"
 
@@ -150,59 +150,63 @@ msgstr ""
 "Falls das Haustier für jemanden reserviert wurde, wähle diese Person hier "
 "aus."
 
-#: pet-store.php:142
+#: pet-store.php:133
+msgid "Select Customer..."
+msgstr "Kunde auswählen..."
+
+#: pet-store.php:143
 msgid "Customers"
 msgstr "Kunden"
 
-#: pet-store.php:143
+#: pet-store.php:144
 msgid "Customer"
 msgstr "Kunde"
 
-#: pet-store.php:144
+#: pet-store.php:145
 msgctxt "gender of the term \"customer\""
 msgid "m"
 msgstr "m"
 
-#: pet-store.php:162
+#: pet-store.php:163
 msgid "In this section you can specify basic data for the customer."
 msgstr "In diesem Abschnitt kannst du generelle Daten zum Kunden angeben."
 
-#: pet-store.php:176
+#: pet-store.php:177
 msgid "Address"
 msgstr "Adresse"
 
-#: pet-store.php:181
+#: pet-store.php:182
 msgid "Email Address"
 msgstr "Email-Adresse"
 
-#: pet-store.php:185
+#: pet-store.php:186
 msgid "Phone Number"
 msgstr "Telefonnummer"
 
-#: pet-store.php:198
+#: pet-store.php:199
 msgid "Set status to %s"
 msgstr "Status auf %s setzen"
 
-#: pet-store.php:206
+#: pet-store.php:207
 msgid "Pet Store"
 msgstr "Tierhandlung"
 
-#: pet-store.php:227
+#: pet-store.php:228
 msgid "Available"
 msgstr "Verfügbar"
 
-#: pet-store.php:228
+#: pet-store.php:229
 msgid "Reserved"
 msgstr "Reserviert"
 
-#: pet-store.php:229
+#: pet-store.php:230
 msgid "Sold"
 msgstr "Verkauft"
 
-#: pet-store.php:247
+#: pet-store.php:248
 msgid "The status of %1$s was successfully set to %2$s."
 msgstr "Der Status von %1$s wurde erfolgreich auf %2$s gesetzt."
 
-#: pet-store.php:250
+#: pet-store.php:251
 msgid "The status of %1$s could not be set to %2$s."
 msgstr "Der Status von %1$s konnte nicht auf %2$s gesetzt werden."

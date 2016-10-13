@@ -130,6 +130,7 @@ function pet_store_add_content( $wpptd ) {
 							'title'                  => __( 'Reserved for Customer', 'pet-store' ),
 							'description'            => __( 'If the pet is reserved for someone, select that person here.', 'pet-store' ),
 							'type'                   => 'select',
+							'placeholder'            => __( 'Select Customer...', 'pet-store' ),
 							'options'                => array(
 								'posts'                  => 'ps_customer',
 							),
